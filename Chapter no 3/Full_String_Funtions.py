@@ -34,3 +34,5 @@ print(text.index("Fun"))
 # This function converts the string into list in terms of spaces .split()
 print(text.split())
 
+# This function is used to capitale Every first letter of every word .title()
+print("Title function : ",text.title())

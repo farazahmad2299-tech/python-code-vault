@@ -36,3 +36,9 @@ print(text.split())
 
 # This function is used to capitale Every first letter of every word .title()
 print("Title function : ",text.title())
+
+# This function is used to identify the starting of any string or character .startswith()
+print("Is the String stars with P : ",text.startswith("P"))
+
+# This function is used to identify the ending of a string .endswith()
+print("Is the string Ends with ll",text.endswith("ll"))

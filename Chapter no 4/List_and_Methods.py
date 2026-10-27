@@ -41,3 +41,7 @@ print("Sum of list is : ",sum(numbers))
 # .sort()
 numbers.sort()
 print("After sorting :",numbers)
+
+# sorted() create a new list and sort 
+
+new_List= sorted(numbers)

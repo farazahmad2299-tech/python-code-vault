@@ -12,3 +12,7 @@ print("The index of git is : ", tech_items.index("git"))
 # max() used to find max value of touple
 print("The max near alphabet to z is :  ",max(tech_items))
 print("The max near alphabet to a is : ",min(tech_items))
+
+# sorted() create a new touple and sort works on numbers so it cannot give output
+
+new_tuple= sorted(tech_items)

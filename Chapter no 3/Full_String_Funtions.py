@@ -41,4 +41,8 @@ print("Title function : ",text.title())
 print("Is the String stars with P : ",text.startswith("P"))
 
 # This function is used to identify the ending of a string .endswith()
-print("Is the string Ends with ll",text.endswith("ll"))
+print("Is the string Ends with ll",text.endswith("ll")) 
+
+# sorted() create a new string  and sort only numbers so it does not give output
+
+new_string= sorted("text")
